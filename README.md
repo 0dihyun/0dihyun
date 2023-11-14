@@ -2,7 +2,7 @@
 
 <p><strong>contact</strong></p>
   <div>
-    <a href="https://www.instagram.com/geek._.hyun/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-bedge&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.instagram.com/geek._.hyun" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-bedge&logo=instagram&logoColor=white"/></a>
   </div>
 
 <p><strong>Once I've used</strong></p>
