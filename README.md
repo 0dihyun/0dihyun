@@ -4,6 +4,6 @@
   <div>
     <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
-    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-bedge&logo=CSS&logoColor=white"/></a>
+    <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-bedge&logo=CSS3&logoColor=white"/></a>
   </div>
  
