@@ -17,7 +17,7 @@
  
 <p><strong>plan to learn</strong></p>
   <div>
-    <img src="https://img.shields.io/badge/c#-512BD4?style=for-the-bedge&logo=c#&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c#-512BD4?style=for-the-bedge&logo=c sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-bedge&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-bedge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-bedge&logo=mysql&logoColor=white"/>
