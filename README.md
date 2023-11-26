@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-bedge&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-bedge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-bedge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/flask-000000?style=for-the-bedge&logo=flask&logoColor=white"/>
   </div>
  
 <p><strong>plan to learn</strong></p>
