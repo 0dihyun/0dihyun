@@ -14,11 +14,11 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-bedge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-bedge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/flask-000000?style=for-the-bedge&logo=flask&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-bedge&logo=javascript&logoColor=white"/>
   </div>
  
 <p><strong>plan to learn</strong></p>
   <div>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-bedge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-bedge&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-bedge&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-bedge&logo=docker&logoColor=white"/>
