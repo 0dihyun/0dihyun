@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/flask-000000?style=for-the-bedge&logo=flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-bedge&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-bedge&logo=TypeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-#61DAFB?style=for-the-bedge&logo=React&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-bedge&logo=React&logoColor=white"/>
   </div>
  
 <p><strong>plan to learn</strong></p>
@@ -24,5 +24,6 @@
     <img src="https://img.shields.io/badge/csharp-512BD4?style=for-the-bedge&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-bedge&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-bedge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/blazor-512BD4?style=for-the-bedge&logo=blazor&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-bedge&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-bedge&logo=Cplusplus&logoColor=white"/>
   </div>
